@@ -2,7 +2,6 @@
 
 复刻于[clover1420](https://github.com/clover1420/uptime-status)这位老哥的项目
 
-修改于[uptime-status](https://github.com/yb/uptime-status)的项目
 
 <img width="1152" alt="image" src="https://s2.loli.net/2023/12/23/GebCgkDphtXj5Q9.png">
 
