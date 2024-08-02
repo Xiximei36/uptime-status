@@ -3,7 +3,7 @@ window.Config = {
   // 显示标题
   SiteName: '内密心書 の 站点监测',
 
-  CopyrightYear: 2023,
+  CopyrightYear: 2024,
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
