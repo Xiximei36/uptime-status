@@ -18,7 +18,7 @@ window.Config = {
   ShowLink: true,
 
   // 背景图片
-  Image: 'https://oortaka.top//upload/17-tuya-rgcn.jpeg',
+  Image: 'https://oortaka.top/upload/wallhaven-5g86w1-tuya.jpg',
 
   // 导航栏菜单
   Navi: [
