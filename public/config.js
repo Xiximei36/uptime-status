@@ -1,14 +1,14 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '内密心書 の 站点监测',
+  SiteName: 'Xiximei の 站点监测',
 
   CopyrightYear: 2024,
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [   
-    'ur2581155-3bcb88a1571a6f66a55ca245',
+    'ur2726536-75623b1b313fb98020cf86e6',
   ],
 
   // 日志天数
